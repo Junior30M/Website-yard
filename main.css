@@ -1,0 +1,64 @@
+body{
+    background-image: url("neuzeit_pic.gif");
+    background-color: #cccccc;
+   }
+*{
+    box-sizing: border-box;
+    padding: 25px 50px 50px 25px;
+}
+#changes{
+    background-image: url("drache.jpg");
+    background-repeat: no-repeat;
+    background-size: 1875px
+}
+h1{
+    color:burlywood ;
+    font-size: 70px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+h2, h3{
+    color:indigo ;
+    text-shadow: 3px 3px 2px crimson;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    
+}
+p{
+    color:indigo;
+    font-size: 16px;
+    font-family: 'Sedgwick Ave', cursive;
+}
+p1, p2, p3, p4{
+    color: orangered;
+    font-size: 38px;
+    font-weight:bold;
+    width: 600px;
+    margin: 0 auto;
+    background-color: moccasin;
+    padding: 0px 25px 50px 20px;
+    font-family: 'Sedgwick Ave', cursive;
+    text-decoration: underline blue;
+}
+li{
+    color:rgba(77, 168, 82, 0.925);
+    font-size: 16px;
+    font-family: 'Sedgwick Ave', cursive;
+}
+
+.fonti{
+    font-family: 'Sriracha', cursive;
+}
+.large{
+    color: turquoise;
+    font-size: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 3px 3px 1px black;
+}
+.centre{
+    text-align: center;
+    font-size: 38px;
+}
+#para1{
+    outline-color: lawngreen;
+}
